@@ -1,0 +1,28 @@
+.text {
+   color: brown;
+}
+
+a {
+   color: blue;
+}
+
+p.one {
+   color: darkseagreen;
+}
+
+.second,
+.four {
+   color: red;
+}
+
+.greencol p {
+   color: green;
+}
+
+.port>p {
+   color: hotpink;
+}
+
+.end {
+   color: olivedrab;
+}
